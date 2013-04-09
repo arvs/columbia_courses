@@ -1,0 +1,3 @@
+class ColumbiaCourses::Catalog
+
+end
